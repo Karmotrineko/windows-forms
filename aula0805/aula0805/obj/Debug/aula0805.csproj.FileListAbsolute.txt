@@ -1,0 +1,11 @@
+C:\DevC\aula0805\aula0805\bin\Debug\aula0805.exe.config
+C:\DevC\aula0805\aula0805\bin\Debug\aula0805.exe
+C:\DevC\aula0805\aula0805\bin\Debug\aula0805.pdb
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.csproj.AssemblyReference.cache
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.csproj.SuggestedBindingRedirects.cache
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.Form1.resources
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.Properties.Resources.resources
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.csproj.GenerateResource.cache
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.csproj.CoreCompileInputs.cache
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.exe
+C:\DevC\aula0805\aula0805\obj\Debug\aula0805.pdb
