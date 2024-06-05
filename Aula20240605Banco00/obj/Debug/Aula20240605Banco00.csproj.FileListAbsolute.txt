@@ -1,0 +1,8 @@
+C:\DevC\Aula20240605Banco00\bin\Debug\Aula20240605Banco00.exe.config
+C:\DevC\Aula20240605Banco00\bin\Debug\Aula20240605Banco00.exe
+C:\DevC\Aula20240605Banco00\bin\Debug\Aula20240605Banco00.pdb
+C:\DevC\Aula20240605Banco00\obj\Debug\Aula20240605Banco00.csproj.AssemblyReference.cache
+C:\DevC\Aula20240605Banco00\obj\Debug\Aula20240605Banco00.csproj.SuggestedBindingRedirects.cache
+C:\DevC\Aula20240605Banco00\obj\Debug\Aula20240605Banco00.csproj.CoreCompileInputs.cache
+C:\DevC\Aula20240605Banco00\obj\Debug\Aula20240605Banco00.exe
+C:\DevC\Aula20240605Banco00\obj\Debug\Aula20240605Banco00.pdb
