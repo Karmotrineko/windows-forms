@@ -1,0 +1,12 @@
+C:\DevC\DdayDbAndForms\DdayDbAndForms\bin\Debug\DdayDbAndForms.exe.config
+C:\DevC\DdayDbAndForms\DdayDbAndForms\bin\Debug\DdayDbAndForms.exe
+C:\DevC\DdayDbAndForms\DdayDbAndForms\bin\Debug\DdayDbAndForms.pdb
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.csproj.AssemblyReference.cache
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.csproj.SuggestedBindingRedirects.cache
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.Form1.resources
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.Properties.Resources.resources
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.csproj.GenerateResource.cache
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.csproj.CoreCompileInputs.cache
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.exe
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.pdb
+C:\DevC\DdayDbAndForms\DdayDbAndForms\obj\Debug\DdayDbAndForms.Form2.resources
